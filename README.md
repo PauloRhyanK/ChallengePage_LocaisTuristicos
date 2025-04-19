@@ -1,5 +1,6 @@
 # Desafio Ponto turístico
 
+![Imagem do Projeto](./assets/Thumbnail.webp)
 Este é um projeto simples desenvolvido em cerca de 30 minutos como parte de um desafio proposto pela Rocketseat. O objetivo era criar uma página HTML e CSS baseada em um modelo disponibilizado no Figma.
 
 ## Sobre o Projeto
@@ -25,7 +26,3 @@ A página apresenta informações sobre um ponto turístico, com imagens, descri
 2. Navegue até o diretório do projeto:
 
 3. Abra o arquivo `index.html` no navegador ou utilize uma extensão como o Live Server no VS Code para visualizar o projeto.
-
-## Imagem do Projeto
-
-![Imagem do Projeto](./assets/Thumbnail.webp)
