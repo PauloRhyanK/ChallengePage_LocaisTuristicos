@@ -1,4 +1,4 @@
-# Desafio Ponto turistico
+# Desafio Ponto turístico
 
 Este é um projeto simples desenvolvido em cerca de 30 minutos como parte de um desafio proposto pela Rocketseat. O objetivo era criar uma página HTML e CSS baseada em um modelo disponibilizado no Figma.
 
